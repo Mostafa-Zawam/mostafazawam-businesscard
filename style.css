@@ -56,7 +56,7 @@
 .box-container .box .content .icons i{
     font-size: 20px;
     margin: 10px 13px;
-    color: coral;
+    color: #035D50;
     display: flex;
 }
 
@@ -79,7 +79,7 @@
 .box-container .box .content .info .post{
     display: block;
     font-size: 18px;
-    color: #ccc;
+    color: #fff;
     padding-bottom: 32px;
     text-transform: capitalize;
 }
@@ -111,8 +111,23 @@
     color: #666;
 }
 
-.box-container .box .share a:hover{
-    color: coral;
+.box-container .box .share .facebook a:hover{
+    color: #1877F2;
+
+}
+
+.box-container .box .share .whatsapp a:hover{
+    color: #24C05F;
+
+}
+
+.box-container .box .share .linkedin a:hover{
+    color: #0A66C1;
+
+}
+
+.box-container .box .share .github a:hover{
+    color: #000000;
 
 }
 
